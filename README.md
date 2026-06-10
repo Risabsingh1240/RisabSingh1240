@@ -86,7 +86,7 @@ public class RisabSingh {
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
-     COMMING SOON
+     COMING SOON
     </td>
     <td width="50%">
       <h3>🎓 Student Management System</h3>
@@ -107,7 +107,7 @@ public class RisabSingh {
         <img src="https://img.shields.io/badge/OOP-6E40C9?style=flat-square"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
-      🚧COMMING SOON
+      🚧COMING SOON
     </td>
     <td width="50%">
       <h3>🌐 Portfolio Website</h3>
