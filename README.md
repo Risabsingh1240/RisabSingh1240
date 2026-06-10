@@ -145,12 +145,12 @@ public class RisabSingh {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=risab-singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risab-singh&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Risabsingh1240&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risabsingh1240&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=risab-singh&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Risabsingh1240&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -177,11 +177,11 @@ public class RisabSingh {
 
 ### 💬 A Quote I Live By
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+*"First, solve the problem. Then, write the code."* 
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=risab-singh&color=6E40C9&style=for-the-badge&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=Risabsingh1240&color=6E40C9&style=for-the-badge&label=Profile+Views)
 
 **Thanks for visiting! ⭐ Star a repo if you find it helpful!**
 
