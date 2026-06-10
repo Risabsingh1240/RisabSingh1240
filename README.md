@@ -8,16 +8,18 @@
 
 <br/>
 
-[![LinkedIn](https://www.linkedin.com/in/risab-kumar-1b6067382?)
-[![Email](singhrisab95@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/risab-kumar-1b6067382?)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Risabsingh1240)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Risabsingh1240/portfolio)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mail-singhrisab95@gmail.com)
 
 </div>
 
----
+
 
 ## 🙋‍♂️ About Me
 
-```java
+java
 public class RisabSingh {
 
     String degree       = "Bachelor of Computer Applications (BCA)";
@@ -34,11 +36,11 @@ public class RisabSingh {
         System.out.println("Hey! I'm Risab — a BCA student passionate about");
         System.out.println("building clean, functional software. I love turning");
         System.out.println("ideas into working applications, one commit at a time.");
-    }
 }
-```
+}
 
----
+
+
 
 ## 🛠️ Tech Stack & Skills
 
@@ -52,7 +54,6 @@ public class RisabSingh {
 ### Concepts & Fundamentals
 ![OOP](https://img.shields.io/badge/OOP-6E40C9?style=for-the-badge&logo=java&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data_Structures-00C49A?style=for-the-badge&logo=thealgorithms&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -85,9 +86,7 @@ public class RisabSingh {
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
-      <a href="https://github.com/risab-singh/online-book-store">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
+     COMMING SOON
     </td>
     <td width="50%">
       <h3>🎓 Student Management System</h3>
@@ -96,9 +95,7 @@ public class RisabSingh {
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
-      <a href="https://github.com/risab-singh/student-management-system">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
+     🚧 COMING SOON
     </td>
   </tr>
   <tr>
@@ -110,9 +107,7 @@ public class RisabSingh {
         <img src="https://img.shields.io/badge/OOP-6E40C9?style=flat-square"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
-      <a href="https://github.com/risab-singh/library-management-system">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
+      🚧COMMING SOON
     </td>
     <td width="50%">
       <h3>🌐 Portfolio Website</h3>
@@ -125,7 +120,7 @@ public class RisabSingh {
       <a href="https://github.com/risab-singh/portfolio">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
-      <a href="https://risab-singh.github.io">
+      <a href="https://Risabsingh1240/portfolio.github.io">
         <img src="https://img.shields.io/badge/Live_Demo-6E40C9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
       </a>
     </td>
@@ -169,10 +164,10 @@ public class RisabSingh {
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | [linkedin.com/in/risab Kumar](https://www.linkedin.com/in/risab-kumar-1b6067382?) |
-| 📧 Email | [Email-Risab kumar](singhrisab95@gmail.com) |
-| 🌐 Portfolio | [risab-kumar.github.io](https://Risabsingh1240/portfolio) |
-| 💻 GitHub | [github.com/risab-singh](https://github.com/Risabsingh1240) |
+| 💼 LinkedIn | [linkedin.com/in/risab-singh](https://www.linkedin.com/in/risab-kumar-1b6067382?) |
+| 📧 Email | [risabsingh@email.com](mailto:singhrisab95@gmail.com) |
+| 🌐 Portfolio | [risab-singh.github.io](https://github.com/Risabsingh1240/portfolio) |
+| 💻 GitHub | [github.com/risab-singh](https://github.com/risab-singh) |
 
 </div>
 
@@ -191,3 +186,5 @@ public class RisabSingh {
 **Thanks for visiting! ⭐ Star a repo if you find it helpful!**
 
 </div>
+
+
