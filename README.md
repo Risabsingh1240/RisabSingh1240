@@ -1,4 +1,4 @@
-# Hi, I'm Risab Singh 👋
+# Hi, I'm Risab Kumar 👋
 
 **BCA Student • Aspiring Software Developer**  
 Focused on building clean, maintainable software and learning practical web development and software engineering skills. Actively seeking **internship opportunities** where I can contribute, learn, and grow.
