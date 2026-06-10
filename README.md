@@ -164,10 +164,10 @@ public class RisabSingh {
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | [linkedin.com/in/risab-singh](https://www.linkedin.com/in/risab-kumar-1b6067382?) |
-| 📧 Email | [risabsingh@email.com](mailto:singhrisab95@gmail.com) |
-| 🌐 Portfolio | [risab-singh.github.io](https://github.com/Risabsingh1240/portfolio) |
-| 💻 GitHub | [github.com/risab-singh](https://github.com/risab-singh) |
+| 💼 LinkedIn | [linkedin.com/in/risab-kumar](https://www.linkedin.com/in/risab-kumar-1b6067382?) |
+| 📧 Email | [mailto:risab ](mailto:singhrisab95@gmail.com) |
+| 🌐 Portfolio | [Risab_Kumar_Portfolio](https://github.com/Risabsingh1240/portfolio) |
+| 💻 GitHub | [github.com/risab-kumar](https://github.com/risab-singh) |
 
 </div>
 
