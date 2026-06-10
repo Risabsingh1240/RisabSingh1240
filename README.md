@@ -16,10 +16,10 @@
 </div>
 
 
-
+---
 ## 🙋‍♂️ About Me
 
-java
+``` java
 public class RisabSingh {
 
     String degree       = "Bachelor of Computer Applications (BCA)";
@@ -38,8 +38,8 @@ public class RisabSingh {
         System.out.println("ideas into working applications, one commit at a time.");
 }
 }
-
-
+```
+---
 
 
 ## 🛠️ Tech Stack & Skills
