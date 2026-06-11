@@ -165,8 +165,8 @@ public class RisabSingh {
 | Platform | Link |
 |----------|------|
 | 💼 LinkedIn | [linkedin.com/in/risab-kumar](https://www.linkedin.com/in/risab-kumar-1b6067382?) |
-| 📧 Email | [mailto:risab ](mailto:singhrisab95@gmail.com) |
-| 🌐 Portfolio | [Risab_Kumar_Portfolio](https://github.com/Risabsingh1240/portfolio) |
+| 📧 Email | [Mail to:risab ](mailto:singhrisab95@gmail.com) |
+| 🌐 Portfolio | [Risab_Kumar_Portfolio](https://github.com/Risabsingh1240/portfolio-website) |
 | 💻 GitHub | [github.com/risab-kumar](https://github.com/risab-singh) |
 
 </div>
