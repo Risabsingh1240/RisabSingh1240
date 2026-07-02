@@ -69,7 +69,7 @@ public class RisabKumar {
 |------|--------|
 | ☕ Java | Core Java, OOP Principles, Collections, Exception Handling |
 | 🧮 DSA | Arrays, Linked Lists, Stacks, Queues, Sorting Algorithms |
-| 🌐 Web Dev | Responsive Design, DOM Manipulation, JS Fundamentals |
+| 🌐 Web Dev | HTML,CSS, DOM Manipulation, JS Fundamentals |
 | 🗄️ Databases | MySQL, SQL Queries, Normalization, CRUD Operations |
 | 🔧 Tools | Git Branching, GitHub Workflows, Version Control Best Practices |
 
@@ -135,11 +135,10 @@ public class RisabKumar {
 
 - [ ] 🏢 **Land my first internship** in Software Development or Web Development
 - [ ] ☕ **Master Core Java** — Collections, Streams, Multithreading
-- [ ] 🧩 **Solve 150+ DSA problems** on LeetCode / HackerRank
 - [ ] 🌐 **Build a full-stack web project** using JavaScript frontend + Java backend
 - [ ] 🤝 **Contribute to open source** — make my first meaningful PR
 - [ ] 📜 **Earn a certification** in Java or Web Development
-- [ ] 🚀 **Launch a freelance project** for a real client
+      
 
 ---
 
