@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Risab Singh
+# 👋 Hi, I'm Risab Kumar
 
 ### 🎓 BCA Student • 💻 Aspiring Software Developer • 🌱 Lifelong Learner
 
@@ -20,7 +20,7 @@
 ## 🙋‍♂️ About Me
 
 ``` java
-public class RisabSingh {
+public class RisabKumar {
 
     String degree       = "Bachelor of Computer Applications (BCA)";
     String focus        = "Software Development & Web Engineering";
@@ -166,8 +166,8 @@ public class RisabSingh {
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | [linkedin.com/in/risab-kumar](https://www.linkedin.com/in/risab-kumar-1b6067382?) |
-| 📧 Email | [Mail to:risab ](mailto:singhrisab95@gmail.com) |
+| 💼 LinkedIn | [RISAB KUMAR](https://www.linkedin.com/in/risab-kumar-1b6067382?) |
+| 📧 Email | [MAIL TO:Risab ](mailto:singhrisab95@gmail.com) |
 | 🌐 Portfolio | [Risab_Kumar_Portfolio](https://github.com/Risabsingh1240/portfolio-website) |
 | 💻 GitHub | [github.com/risab-kumar](https://github.com/risab-singh) |
 
