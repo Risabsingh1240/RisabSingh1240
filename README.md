@@ -99,7 +99,7 @@ public class RisabKumar {
       </p>
      <a href=="https://github.com/Risabsingh1240/student-management-system">
                  <img src="https://img.shields.io/badge/Live_Demo-6E40C9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-         <a/>
+     </a>
     </td>
   </tr>
   <tr>
