@@ -97,7 +97,7 @@ public class RisabKumar {
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
-     <a href=="https://github.com/Risabsingh1240/student-management-system">
+     <a href="https://github.com/Risabsingh1240/student-management-system">
                  <img src="https://img.shields.io/badge/Live_Demo-6E40C9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
      </a>
     </td>
